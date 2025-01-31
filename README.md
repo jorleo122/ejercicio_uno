@@ -6,3 +6,5 @@ Nuestro primer repositorio
 ### Lista de Contribuidores
 
 * Jorge Rubio
+
+* Kevin Montano
